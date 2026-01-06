@@ -35,7 +35,14 @@ A minimal UI where users can type text and click a button to hear the spoken out
 
 ## How It Works
 
-1.User enters text in the textarea.
-2.Clicks “Play Converted Sound”.
-3.JavaScript uses SpeechSynthesisUtterance.
-4.Browser converts text into speech and plays it.
+1.User enters text in the textarea
+2.Clicks “Play Converted Sound”
+3.Browser converts text into speech and plays it
+
+
+## Future Improvements
+
+🎚️ Voice selection (male/female, accents)
+🎛️ Speech rate & pitch controls
+🌍 Multiple language support
+⏸️ Pause / Resume functionality
