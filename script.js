@@ -1,1 +1,67 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(90deg, #ee09c4, #22e5f7);
+}
+
+.app-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+}
+
+.headings-container {
+    padding: 0 1rem;
+}
+
+.interaction-container {
+    display: flex;
+    align-items: normal;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.text-control {
+    padding: 0.5rem;
+    margin: 2rem 0;
+    background-color: #fefefe52;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.text-control:focus-visible {
+    outline: none;
+}
+
+.error-para {
+    color: rgb(0, 0, 0);
+}
+
+.btn {
+    padding: 0.8rem;
+    background-image: linear-gradient(90deg, #F4244C, #F57D4E);
+    border: 1px solid transparent;
+    border-radius: 10px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.25s;
+}
+
+.btn:hover {
+    padding: 1rem;
+}
