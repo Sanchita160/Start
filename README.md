@@ -27,18 +27,15 @@ Text-To-Speech-Converter/
 ├── script.js       # JavaScript logic for text-to-speech
 └── README.md       # Project documentation
 
-📸 Preview
+
+## Preview
 
 A minimal UI where users can type text and click a button to hear the spoken output.
 
-(You can add screenshots or GIFs here for better presentation)
 
-⚙️ How It Works
+## How It Works
 
-User enters text in the textarea
-
-Clicks “Play Converted Sound”
-
-JavaScript uses SpeechSynthesisUtterance
-
-Browser converts text into speech and plays it
+User enters text in the textarea.
+Clicks “Play Converted Sound”.
+JavaScript uses SpeechSynthesisUtterance.
+Browser converts text into speech and plays it.
