@@ -1,19 +1,17 @@
-🎙️ Text to Speech Converter (Voice Assistant)
+## Text to Speech Converter (Voice Assistant)
 
 A simple and interactive Text to Speech Converter web application built using HTML, CSS, and JavaScript.
 This app allows users to enter text and instantly convert it into speech using the Web Speech API.
 
-🚀 Features
+
+## Features
 
 🔊 Converts written text into natural-sounding speech
-
 🎨 Clean and modern UI with gradient background
-
 ⚡ Instant playback using browser’s built-in speech engine
-
 🛑 Error handling for empty input
-
 🖥️ Fully responsive design
+
 
 🛠️ Technologies Used
 
