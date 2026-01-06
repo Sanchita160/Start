@@ -13,15 +13,13 @@ This app allows users to enter text and instantly convert it into speech using t
 🖥️ Fully responsive design
 
 
-🛠️ Technologies Used
+## Technologies Used
 
 HTML5 – Structure of the application
-
 CSS3 – Styling and responsive layout
-
 JavaScript (ES6) – Logic and Web Speech API
 
-📂 Project Structure
+## Project Structure
 Text-To-Speech-Converter/
 │
 ├── index.html      # Main HTML file
